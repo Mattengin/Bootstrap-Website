@@ -1,0 +1,78 @@
+.jumbotron{
+    background-image: url(alex.jpg);
+    text-align: center;
+    margin-top: 50px;
+    height: 550px
+}
+
+.icons {
+    font-size: 24px;
+    float: right;
+    position: relative;
+    right: 650px;
+    width: 60px;
+    height: 60px;
+    background: #f1f1f1;
+    display: block;
+    text-align: center;
+    margin: 0 10px;
+    border-radius: 50%;
+    padding: 6px;
+    box-sizing: border-box;
+    text-decoration: none;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.3);
+    background: linear-gradient(0deg,#ddd,#fff);
+    transition: .5s;
+        
+}
+
+.icons:hover{
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+.fa-github{
+    color: black;
+}
+
+.thewhy{
+    font-family: 'Bungee', cursive;
+}
+
+.name{
+    font-size: 20px;
+    position: relative;
+    top: 80px;
+}
+
+#summary{
+    padding: 10px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px
+}
+
+.card-img-top{
+    width: 100%;
+}
+
+body{
+    position: relative;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    padding-bottom: 20px;
+}
+
+.row{
+    padding: 20px 0 40px 300px;
+}
+
+#projects{
+    padding-bottom: 10px;
+}
+
